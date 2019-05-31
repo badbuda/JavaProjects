@@ -1,0 +1,3 @@
+this projects receives a json via postman, transfers it into an httpServer companent,
+then it sends it into threadpool, that sends the task to a singleton command factory companent.
+from there it transfers it to a tweet class that posts the tweet and returns a response.
