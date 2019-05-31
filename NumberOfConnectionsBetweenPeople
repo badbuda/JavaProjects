@@ -1,4 +1,0 @@
-this is an implementation of graph threory.
-it finds the minimum connections between two people through other people.
-
-the program receives an array of persons and two people, and then it finds the minimum distance between them.
